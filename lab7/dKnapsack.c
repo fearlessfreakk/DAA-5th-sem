@@ -61,13 +61,3 @@ int main() {
 
     return 0;
 }
-
-// Enter number of items: 3
-// Enter weights of items:
-// 4 5 1
-// Enter profits of items:
-// 1 2 3
-// Enter knapsack capacity: 4
-
-// Maximum Profit: 3
-// Selected items (1-based index): 3 
